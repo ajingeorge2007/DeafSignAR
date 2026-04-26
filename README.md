@@ -73,6 +73,8 @@ Built as an accessibility and communication tool to bridge spoken language with 
 
 ![Voice](screenshots/voice.png)
 
+![Voice](screenshots/voice2.png)
+
 ![Auth](screenshots/auth.png)
 
 ## 👨‍💻 Developer
