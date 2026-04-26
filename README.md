@@ -67,6 +67,14 @@ Built as an accessibility and communication tool to bridge spoken language with 
 
 ---
 
+## Screenshots
+
+![Home](screenshots/home.png)
+
+![Voice](screenshots/voice.png)
+
+![Auth](screenshots/auth.png)
+
 ## 👨‍💻 Developer
 
 Ajin George
